@@ -1,0 +1,15 @@
+AirportBaggage/bin
+AirportBaggage/obj
+AirportBaggage/AirportBaggage.csproj.user
+AirportBaggageTests/bin
+AirportBaggageTests/obj
+Models/bin
+Models/obj
+ModelsTests/bin
+ModelsTests/obj
+Solutions/bin
+Solutions/obj
+SolutionsTests/bin
+SolutionsTests/obj
+TestResults
+AirportBaggage.v12.suo
